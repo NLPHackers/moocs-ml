@@ -1,0 +1,50 @@
+Applied Cryptography|55|PLAwxTw4SYaPnCeih6BPvJ5GdqqThGcWlX
+Intro to Statistics|56|PLAwxTw4SYaPnYdzOgKRoTNYwmvjUDH_pt
+Intro Algebra Review|57|PLAwxTw4SYaPnliQD_WPvjTZcE9fOJER9W
+College Algebra|58|PLAwxTw4SYaPnJnimTSBr-6Q_xX-P-PwvF
+Visualizing Algebra|59|PLAwxTw4SYaPlSLRIPSeloeFkkwEnnl6d4
+Software Testing|60|PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g
+Intro to Algorithms|61|PLAwxTw4SYaPk0SXKi0ARnhK5zhZcA4yDU
+Interactive 3D Graphics|62|PLAwxTw4SYaPlaHwnoGxJE7NFhEWRCIyet
+Programming Languages|63|PLAwxTw4SYaPlI9QCVVfXxwJYqJWyts10f
+Design of Computer Programs|64|PLAwxTw4SYaPnJVtPvZZ5zXj_wRBjH0FxX
+Differential Equations in Action|65|PLAwxTw4SYaPlT4WYwf_SzNA9FV0qpGE5A
+Software Debugging|66|PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A
+Intro to Theoretical Computer Science|67|PLAwxTw4SYaPl4bx7Pck4JWjy1WVbrDx0U
+Functional Hardware Verification|68|PLAwxTw4SYaPm59aLlixOW00SjDuRECz65
+Intro to Physics|69|PLAwxTw4SYaPlh6Q9KI7YtD3R6V2Ahf4-7
+Tales from the Genome|70|PLAwxTw4SYaPmSI2j3EpYmC8_VHE7cP9YT
+Intro to Psychology|71|PLAwxTw4SYaPlSpykSf8znyTQXk3ANBB2-
+Machine Learning|72|PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp|PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7|PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O|PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo
+JavaScript Design Patterns|16|PLAwxTw4SYaPkGKjpeiLWz8ydvFEkmRkBn
+JavaScript Testing|17|PLAwxTw4SYaPkv4LG-0UHNfhPkKPfYacOg
+UIKit Fundamentals|18|PLAwxTw4SYaPn1QA1sB3MxtpotqKPPz0k0
+Data Visualization and D3.js|21|PLAwxTw4SYaPmN67oPL09hz8-JUwQ5Aqci
+Intro to Machine Learning|22|PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH
+Intro to Hadoop and MapReduce|23|PLAwxTw4SYaPkXJ6LAV96gH8yxIfGaN3H-
+Real-Time Analytics with Apache Storm|24|PLAwxTw4SYaPnWVpbkeoLu7WwI0JIiuXhT
+Intro to Data Science|25|PLAwxTw4SYaPk41og7PER4HBpGciPw6n3x
+Web Development|26|PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI
+Object-Oriented JavaScript|27|PLAwxTw4SYaPmRCRPu9EjK-fWSccPwTOnc
+HTML5 Canvas|28|PLAwxTw4SYaPlCHrPhU6cLlpKYqJH40KBW
+Intro to jQuery|29|PLAwxTw4SYaPkk4k42lGH3l-MlojoNFBFI
+Intro to AJAX|30|PLAwxTw4SYaPkZTDQ0vR9BwkHnku9QRwqh
+Intro to Artificial Intelligence|31|PLAwxTw4SYaPlqMkzr4xyuD6cXTIgPuzgn
+How to Build a Startup|32|PLAwxTw4SYaPnxzSuovATBMrNowGaaEBmW
+Data Analysis with R|33|PLAwxTw4SYaPlSFCDRaseIGGxlGn81Adjs
+UX Design for Mobile Developers|34|PLAwxTw4SYaPmQ_E3Z9WvTUgQ8rpjZqeI3
+Intro to Point & Click App Development|35|PLAwxTw4SYaPmt1Jiu0laRne1KvM9h-jQo
+Developing Scalable Apps with Java|36|PLAwxTw4SYaPmxGlyA8491d3tQ2u8epZr3
+Intro to Parallel Programming|37|PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2
+Intro to Descriptive Statistics|38|PLAwxTw4SYaPn22DmaF6x8JtG4TeWOJk_1
+Intro to Inferential Statistics|39|PLAwxTw4SYaPnVUrK_vL3r9tP6kuwAEzgQ
+Advanced Operating Systems|40|PLAwxTw4SYaPmfaiuzJcK3tNoeKlvRR990|PLAwxTw4SYaPk5-YaXFkWY4UXdv6pVdiYg|PLAwxTw4SYaPm4vV1XbFV93ZuT2saSq1hO
+Computability, Complexity & Algorithms|41|PLAwxTw4SYaPkbWSEj_1iO7rILlWDJImW4
+Knowledge-Based AI: Cognitive Systems|42|PLAwxTw4SYaPnfBiz7qzbPX27x4zBBNrY5
+High Performance Computer Architecture|43|PLAwxTw4SYaPndXEsI4kAa6BDSTRbkCKJN
+Health Informatics in the Cloud|44|PLAwxTw4SYaPnDVDKWtfIJNSOs14n1Hsc5|PLAwxTw4SYaPmIzoL83kK9ktN9ITp_WsFp
+Computer Networking|45|PLAwxTw4SYaPn7Tjz2YeEN2VK-snE142k8|PLAwxTw4SYaPlEHG2kkN5Kl1eKHeZuJDG-|PLAwxTw4SYaPn21MqCiFq2r0FSjk9l6cW2
+Software Development Process|46|PLAwxTw4SYaPkoQFThzsc9e7Fe3QV_KJCs
+Artificial Intelligence for Robotics|47|PLAwxTw4SYaPkCSYXw6-a_aAoXVKLDwnHK
+Data Wrangling with MongoDB|48|PLAwxTw4SYaPnq2iMkfPxmXwBFjwc_AXK_
+Model Building and Validation|49|PLAwxTw4SYaPn-ttWkPiUL7NP3lLRdUniJ
